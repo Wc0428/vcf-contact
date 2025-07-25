@@ -29,7 +29,7 @@
 <body>
   <h2>Add Me to Your Contacts</h2>
   <p>Tap the button below to download my contact card:</p>
-  <a class="btn" href="https://www.dropbox.com/s/abc123xyz/mycontact.vcf?dl=1">Add to Contacts</a>
+  <a class="btn" href="https://www.dropbox.com/scl/fi/a7uy7i0u0xhdp4tato6mf/kenny_koh.vcf?rlkey=rqpgrrjs73amz90sfwf4lw60d&st=zbqbv3yb&dl=1">Add to Contacts</a>
   <p class="note">On Android, if this doesn't open automatically, check your Downloads folder and import via your Contacts app.</p>
 </body>
 </html>
